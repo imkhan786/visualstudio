@@ -15,7 +15,7 @@ namespace devops
     public class Startup
     {
         public Startup(IConfiguration configuration)
-        {
+        {//simple comment
             Configuration = configuration;
         }
 
